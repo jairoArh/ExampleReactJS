@@ -1,0 +1,21 @@
+.styleTask{
+    background: #67431a;
+    color: antiquewhite;
+    border: 2px solid orange;
+    border-radius: 20px;
+}
+
+.stAux{
+    color:black;
+    font-weight: bold;
+}
+
+.done{
+    background: greenyellow;
+    color: black;
+}
+
+.fail{
+    background: red;
+    color: black;
+}
